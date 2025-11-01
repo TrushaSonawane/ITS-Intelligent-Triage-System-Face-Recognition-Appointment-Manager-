@@ -1,0 +1,41 @@
+{
+    "jacob": {
+        "specialization": "physio",
+        "schedule": {
+            "days": [
+                "Mon",
+                "Wed",
+                "Sun"
+            ],
+            "start_time": "10:00",
+            "end_time": "17:00"
+        },
+        "contact": "1234567989"
+    },
+    "damon dsoza": {
+        "specialization": "cardio",
+        "schedule": {
+            "days": [
+                "Mon",
+                "Tue",
+                "Wed",
+                "Thu"
+            ],
+            "start_time": "10:00",
+            "end_time": "16:00"
+        },
+        "contact": "1254789632"
+    },
+    "doctor": {
+        "specialization": "cardiology",
+        "schedule": {
+            "days": [
+                "Tue",
+                "Wed"
+            ],
+            "start_time": "10:00",
+            "end_time": "16:00"
+        },
+        "contact": "4127896322"
+    }
+}

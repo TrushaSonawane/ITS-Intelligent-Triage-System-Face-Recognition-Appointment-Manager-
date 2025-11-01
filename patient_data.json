@@ -1,0 +1,90 @@
+{
+    "Trusha": {
+        "age": 24,
+        "gender": "Female",
+        "allergies": "Peanuts",
+        "history": "Annual checkup pending, fully vaccinated."
+    },
+    "Selena": {
+        "age": 15,
+        "gender": "Female",
+        "allergies": "None",
+        "history": "Recently recovered from mild flu."
+    },
+    "Lara": {
+        "age": 13,
+        "gender": "Female",
+        "allergies": "Dust",
+        "history": "Mild seasonal allergies (hay fever)."
+    },
+    "Daniela": {
+        "age": 16,
+        "gender": "Female",
+        "allergies": "Bees",
+        "history": "Has EpiPen access. Healthy."
+    },
+    "Manon": {
+        "age": 14,
+        "gender": "Female",
+        "allergies": "Cats",
+        "history": "No known health concerns."
+    },
+    "Megan": {
+        "age": 12,
+        "gender": "Female",
+        "allergies": "None",
+        "history": "Scheduled for dental appointment next week."
+    },
+    "Yoonchae": {
+        "age": 15,
+        "gender": "Female",
+        "allergies": "Sulfa drugs",
+        "history": "Has history of migraine headaches."
+    },
+    "Mom": {
+        "age": 45,
+        "gender": "Female",
+        "allergies": "Shellfish",
+        "history": "No major issues, last physical 6 months ago."
+    },
+    "Dad": {
+        "age": 47,
+        "gender": "Male",
+        "allergies": "Penicillin",
+        "history": "High blood pressure managed with medication."
+    },
+    "Krrishu": {
+        "age": 10,
+        "gender": "Male",
+        "allergies": "Dairy",
+        "history": "Lactose intolerant. Very active."
+    },
+    "Sophia": {
+        "age": 17,
+        "gender": "Female",
+        "allergies": "Latex",
+        "history": "Recently had wisdom teeth removed."
+    },
+    "Yash": {
+        "age": "23",
+        "gender": "M",
+        "blood_type": "o+",
+        "last_visit": "2025-10-28",
+        "allergies": "shell fish, tomato,gluten",
+        "history": "none"
+    },
+    "ddd": {
+        "age": "44",
+        "gender": "f",
+        "allergies": "na",
+        "history": "na",
+        "last_visit": "2025-10-31 00:00:13"
+    },
+    "patient1": {
+        "age": "23",
+        "gender": "Female",
+        "allergies": "none",
+        "history": "none",
+        "last_visit": "2025-11-01 14:12:23"
+    }
+}
